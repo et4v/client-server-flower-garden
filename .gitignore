@@ -1,0 +1,17 @@
+# Compiled object files
+*.o
+
+# Executables
+garden_server
+flower_client
+
+# CS:APP library files (do not track)
+csapp.c
+csapp.h
+
+# macOS junk
+.DS_Store
+
+# Editor / IDE files
+.vscode/
+.idea/
